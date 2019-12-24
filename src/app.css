@@ -1,0 +1,13 @@
+#success{
+    border: 0.1em solid green;
+    color: green;
+}
+
+#error{
+    border: 0.1em solid red;
+    color: red;
+}
+
+*{
+    list-style-type: none;
+}
